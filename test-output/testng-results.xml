@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[no.of rows10]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6284     6284]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6285     6285]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6286     6286]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6287     6287]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6288     6288]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6289     6289]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6290     6290]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6291     6291]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6292     6292]]>
+    </line>
+    <line>
+      <![CDATA[emp sucess6293     6293]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="190161" started-at="2022-07-17T07:22:31Z" finished-at="2022-07-17T07:25:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="190161" started-at="2022-07-17T07:22:31Z" finished-at="2022-07-17T07:25:41Z">
+      <class name="driverFactory.POMscript">
+        <test-method status="PASS" signature="adminLogin()[pri:0, instance:driverFactory.POMscript@61832929]" name="adminLogin" is-config="true" duration-ms="14772" started-at="2022-07-17T12:52:31Z" finished-at="2022-07-17T12:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+        <test-method status="PASS" signature="empCreation()[pri:0, instance:driverFactory.POMscript@61832929]" name="empCreation" duration-ms="169419" started-at="2022-07-17T12:52:46Z" finished-at="2022-07-17T12:55:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[no.of rows10]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6284     6284]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6285     6285]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6286     6286]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6287     6287]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6288     6288]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6289     6289]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6290     6290]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6291     6291]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6292     6292]]>
+            </line>
+            <line>
+              <![CDATA[emp sucess6293     6293]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- empCreation -->
+        <test-method status="PASS" signature="adminLogOut()[pri:0, instance:driverFactory.POMscript@61832929]" name="adminLogOut" is-config="true" duration-ms="5939" started-at="2022-07-17T12:55:35Z" finished-at="2022-07-17T12:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogOut -->
+      </class> <!-- driverFactory.POMscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
